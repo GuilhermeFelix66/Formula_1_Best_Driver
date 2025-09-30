@@ -1,0 +1,3 @@
+# It's important to note that this is an analysis using only one dataset, ignoring various factors and concepts that influence the final result
+# (modernization of cars, circuits that no longer exist, new circuits, etc.). 
+# This project is simply an analysis of the dataset we have access to, with a focus on using pandas for exploratory analysis with a specific goal.
